@@ -54,7 +54,8 @@ REG NO:
 ### CLIENT:
 ![image](https://github.com/23004205/2c.ARP_RARP_PROTOCOLS/assets/138971114/3e9c0cfe-9279-433b-946b-0842fd4691cc)
 ### SERVER:
-[image](https://github.com/23004205/2c.ARP_RARP_PROTOCOLS/assets/138971114/06b92f01-6fc9-43e6-9e0a-5520713a223d)
+![image](https://github.com/23004205/2c.ARP_RARP_PROTOCOLS/assets/138971114/646af8db-2280-41a6-a85e-82ebbea88dc9)
+
 ### ALGORITHM FOR RARP
 ### CLIENT:
 1.Start the program
