@@ -52,9 +52,9 @@ REG NO:
 ```
 ## OUPUT - ARP
 ### CLIENT:
-![image](https://github.com/Thilak45/2c.ARP_RARP_PROTOCOLS/assets/138849161/cf122ab8-e63e-42d3-b029-1656297fa2e2)
+![image](https://github.com/23004205/2c.ARP_RARP_PROTOCOLS/assets/138971114/3e9c0cfe-9279-433b-946b-0842fd4691cc)
 ### SERVER:
-![image](https://github.com/Thilak45/2c.ARP_RARP_PROTOCOLS/assets/138849161/b88377f2-02c8-4585-8769-7e9b4534027e)
+[image](https://github.com/23004205/2c.ARP_RARP_PROTOCOLS/assets/138971114/06b92f01-6fc9-43e6-9e0a-5520713a223d)
 ### ALGORITHM FOR RARP
 ### CLIENT:
 1.Start the program
@@ -102,9 +102,12 @@ while True:
 ## OUPUT -RARP
 ```
 ### CLIENT:
-![image](https://github.com/Thilak45/2c.ARP_RARP_PROTOCOLS/assets/138849161/bf0f5e38-5d63-4f25-9cf8-3d7beb1bf011)
-### SERVER:
-![image](https://github.com/Thilak45/2c.ARP_RARP_PROTOCOLS/assets/138849161/5c3c398b-fd73-4e19-82f1-e07e624e558a)
+![image](https://github.com/23004205/2c.ARP_RARP_PROTOCOLS/assets/138971114/0e4fcb09-8f99-492d-9ac8-71b15c8b1123)
+
+
+### server:
+![image](https://github.com/23004205/2c.ARP_RARP_PROTOCOLS/assets/138971114/6402868c-2a27-4658-ba41-da9396c8b5f2)
+
 
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
